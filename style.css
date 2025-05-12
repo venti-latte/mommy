@@ -233,7 +233,7 @@ body {
   transform: translate(-50%, -50%);
   z-index: 5;
   width: 390px; /* Fixed width */
-  height: 500px; /* Fixed height */
+  height: 525px; /* Fixed height */
   transition: all 0.5s;
 }
 
