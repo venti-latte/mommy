@@ -235,6 +235,7 @@ body {
   width: 390px; /* Fixed width */
   height: 500px; /* Fixed height */
   transition: all 0.5s;
+  padding-bottom: 30px; /* Add this */
 }
 
 #photo.centered {
